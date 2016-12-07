@@ -1,0 +1,23 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anweshap99/myBlog.git"
+  },
+  "author": "anwesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anweshap99/myBlog/issues"
+  },
+  "homepage": "https://github.com/anweshap99/myBlog#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
